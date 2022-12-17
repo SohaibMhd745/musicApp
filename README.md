@@ -1,7 +1,11 @@
 # Project: musicApp
 _This is a school project, ignore it._
 
-<p align="center"><img src="https://i.ibb.co/W25yWPj/ESGI-badge3.png"></p>
+<p align="center">
+    <a href="https://esgi.fr" target="_blank">
+        <img src="https://i.ibb.co/W25yWPj/ESGI-badge3.png">
+    </a>
+</p>
 
 This is a music app that allows you to play music from a web app for free.
 
