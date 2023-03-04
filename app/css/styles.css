@@ -665,6 +665,14 @@ body a:hover {
 .artist__content .overview__artist .latest-release__song__title {
   color: rgb(200, 200, 200);
 }
+
+header{
+  position:fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+}
+
 .artist__content .overview__related {
   width: 30%;
 }
