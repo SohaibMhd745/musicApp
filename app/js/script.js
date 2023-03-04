@@ -43,7 +43,6 @@ $(window).on("resize load", function () {
 
     console.log(totalHeight);
 
-    $(".navigation").css("height", navHeight);
     $(".artist").css("height", artistHeight);
     $(".social").css("height", artistHeight);
 
@@ -53,7 +52,7 @@ $(window).on("resize load", function () {
 
 $(".navigation__list__header").on("click", function () {
 
-    $(this).toggleClass("active");
+    $(this).toggleClass("active")
 
 });
 
