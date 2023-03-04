@@ -25,7 +25,7 @@ This is a music app that allows you to play music from a web app for free.
 git clone https://github.com/SohaibMhd745/musicApp.git
 ```
 
-2. Install NPM packages
+2. Install all NPM packages
 
 ```sh
 npm install
