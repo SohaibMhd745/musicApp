@@ -9,8 +9,8 @@ switch (player){
         console.log("press to continue");
 }
 
-const loop = document.querySelectorAll("loop")
-for (let i=0; i<loop.length; i++) {
+const loopBtn = document.querySelectorAll("loop")
+for (let i=0; i<loopBtn.length; i++) {
     console.log("music appears");
     console.log("music is playing");
     console.log("loop is playing");
