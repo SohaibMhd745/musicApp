@@ -2,9 +2,11 @@ const player = document.querySelectorAll("player")
 switch (player){
     case 'pause':
         console.log("pause");
+        console.log("press to continue")
         break;
     default :
         console.log("playing");
+        console.log("press to continue");
 }
 
 const loop = document.querySelectorAll("loop")
