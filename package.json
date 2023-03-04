@@ -1,0 +1,19 @@
+{
+  "name": "musicapp",
+  "version": "1.0.0",
+  "description": "This is a music app that allows you to play music from a web app for free.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SohaibMhd745/musicApp.git"
+  },
+  "author": "SohaibMhd745",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SohaibMhd745/musicApp/issues"
+  },
+  "homepage": "https://github.com/SohaibMhd745/musicApp#readme"
+}
