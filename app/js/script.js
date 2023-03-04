@@ -67,7 +67,6 @@ $(window).on("resize load", function () {
 
         $(".navigation").css("height", "auto");
 
-        $(".artist").css("height", "auto");
 
     }
 });
