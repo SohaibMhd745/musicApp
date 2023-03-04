@@ -52,7 +52,7 @@ $(window).on("resize load", function () {
 
 $(".navigation__list__header").on("click", function () {
 
-    $(this).toggleClass("active");
+    $(this).toggleClass("active")
 
 });
 
