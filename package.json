@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/SohaibMhd745/musicApp/issues"
   },
-  "homepage": "https://github.com/SohaibMhd745/musicApp#readme"
+  "homepage": "https://github.com/SohaibMhd745/musicApp#readme",
+  "devDependencies": {
+    "eslint": "^8.35.0"
+  }
 }
