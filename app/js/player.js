@@ -4,5 +4,5 @@ switch (player){
         console.log("pause");
         break;
     default :
-        console.log("playing");
+        console.log("playing);
 }
